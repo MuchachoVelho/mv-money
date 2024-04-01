@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Web developing",
+      "type": "income",
+      "category": "Sale",
+      "price": 1400,
+      "createAt": "2024-02-23T01:49:57.377Z"
+    },
+    {
+      "id": "2",
+      "description": "design",
+      "type": "outcome",
+      "category": "Food",
+      "price": 500,
+      "createAt": "2024-07-23T01:50:57.377Z"
+    },
+    {
+      "id": "3",
+      "description": "drink",
+      "type": "outcome",
+      "category": "Food",
+      "price": 600,
+      "createAt": "2024-06-23T01:18:57.377Z"
+    },
+    {
+      "id": "0222",
+      "category": "pinto",
+      "description": "abc",
+      "price": 78,
+      "type": "income",
+      "createdAt": "2024-02-25T16:26:11.857Z"
+    },
+    {
+      "id": "f441",
+      "category": "sexo",
+      "description": "pinto",
+      "price": 123,
+      "type": "outcome",
+      "createdAt": "2024-02-25T17:43:22.093Z"
+    },
+    {
+      "id": "ed6d",
+      "description": "rola",
+      "price": 30,
+      "category": "pomtp",
+      "type": "income",
+      "createdAt": "2024-03-29T01:57:46.807Z"
+    }
+  ]
+}
